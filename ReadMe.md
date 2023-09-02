@@ -80,8 +80,8 @@ http://www.google.com
 ☕💐🤞💐✔✅
 
 ### Image
-<img src="E:/Full%20Stack%20Web%20Development/Media/A.jpg" alt="This is food image" width="400px" title="Food Image"/>
+<img src="E:/Full%20Stack%20Web%20Development/Media/A.JPG" alt="This is food image" width="400px" title="Food Image"/>
 
 ### Image style
-![Food Image](E:/Full%20Stack%20Web%20Development/Media/A.jpg)
+![Food Image](E:/Full%20Stack%20Web%20Development/Media/A.JPG)
 
